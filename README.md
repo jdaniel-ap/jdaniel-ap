@@ -7,19 +7,6 @@
 
 - 📫 How to reach me **jdaniell.93@gmail.com**
 
-- ⚡ Fun fact **I like the Beatles*
-
-
-
-<h1 align="center">Hi 👋, I'm Jose Arreaza (JD)</h1>
-<h3 align="center">A Web Developer Student</h3>
-
-- 🌱 I’m currently learning **MongoDB, Solidity**
-
-- 👨‍💻 All of my projects are available at [http://jdaniel-ap.github.io/](http://jdaniel-ap.github.io/)
-
-- 📫 How to reach me **jdaniell.93@gmail.com**
-
 - ⚡ Fun fact **I like the Beatles**
 
 
