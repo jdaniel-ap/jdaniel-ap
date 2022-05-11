@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Arreaza (JD)</h1>
 <h3 align="center">A Web Developer Student</h3>
 
-- 🌱 I’m currently learning **Java, C#**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [http://jdaniel-ap.github.io/](http://jdaniel-ap.github.io/)
 
