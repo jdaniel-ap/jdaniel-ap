@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Arreaza (JD)</h1>
-<h3 align="center">A Web Developer Student</h3>
+<h3 align="center">A Web Developer</h3>
 
 - 🌱 I’m currently learning **C#**
 
