@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Arreaza (JD)</h1>
 <h3 align="center">A Web Developer</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 👨‍💻 All of my projects are available at [http://jdaniel-ap.github.io/](http://jdaniel-ap.github.io/)
 
